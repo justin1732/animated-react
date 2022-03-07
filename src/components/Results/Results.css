@@ -1,0 +1,49 @@
+ body {
+    overflow-x: hidden;
+    height: 100%;
+    }
+    .results {
+        text-align:center;
+        padding-top: 20px;
+        background: crimson;
+        height: 100%;
+    }
+    .result-box{
+        background: #f9f5da;
+        width: 80%;
+        border: 15px solid darkblue;
+        padding: 50px;
+        margin: auto;
+        text-align: center;
+    }
+    /* p {
+        float: left;
+        text-align: left;
+    } */
+    .title, .authors {
+        margin-left: 10px;
+        padding: 10px;
+        border-bottom: 2px;
+    }
+    .buttonDiv {
+        margin-right: 20px;
+        float: right;
+    }
+    .title {
+        margin-bottom: 0px;
+        font-weight: bold;
+    }
+    .results h1 {
+        color: white;
+    }
+    .view {
+        background: navy;
+        color: white;
+        margin-right: 10px;
+    }
+    .save {
+        color: white;
+    }
+    .description{
+        margin-right: 20px
+    }

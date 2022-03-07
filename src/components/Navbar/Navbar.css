@@ -1,0 +1,8 @@
+.navbar {
+    background:crimson;
+    color: white;
+}
+.navbar a {
+    color: white;
+    margin-left: 15px;
+}
